@@ -3,8 +3,8 @@ title: Alex Weeks
 subtitle: A Personal Portfolio
 email: alex@alex-weeks.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: alex-weeks.com # the base hostname & protocol for your site
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
