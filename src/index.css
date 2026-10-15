@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Fira+Mono:wght@400;500;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Warm modern design system — off-white canvas, deep ink, ochre accent */
+@layer base {
+  :root {
+    --background: 38 30% 96%;          /* warm off-white */
+    --foreground: 25 25% 12%;          /* deep ink */
+
+    --card: 38 35% 98%;
+    --card-foreground: 25 25% 12%;
+
+    --popover: 38 35% 98%;
+    --popover-foreground: 25 25% 12%;
+
+    --primary: 25 25% 12%;             /* ink */
+    --primary-foreground: 38 30% 96%;
+
+    --secondary: 35 22% 90%;           /* warm sand */
+    --secondary-foreground: 25 25% 12%;
+
+    --muted: 35 18% 88%;
+    --muted-foreground: 25 12% 38%;
+
+    --accent: 22 78% 45%;              /* rust/ochre */
+    --accent-foreground: 38 30% 96%;
+
+    --destructive: 0 70% 45%;
+    --destructive-foreground: 38 30% 96%;
+
+    --border: 30 15% 82%;
+    --input: 30 15% 82%;
+    --ring: 22 78% 45%;
+
+    --radius: 0.5rem;
+
+    /* Brand extensions */
+    --ochre: 22 78% 45%;
+    --ochre-soft: 32 65% 60%;
+    --rust: 14 65% 38%;
+    --paper: 38 35% 98%;
+    --ink: 25 25% 12%;
+    --ink-soft: 25 18% 28%;
+
+    --gradient-warm: linear-gradient(135deg, hsl(38 35% 98%) 0%, hsl(35 30% 92%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(22 78% 45%), hsl(14 65% 38%));
+    --gradient-glow: radial-gradient(ellipse at top, hsl(32 65% 60% / 0.15), transparent 60%);
+
+    --shadow-soft: 0 1px 2px hsl(25 25% 12% / 0.04), 0 8px 24px -8px hsl(25 25% 12% / 0.08);
+    --shadow-card: 0 1px 3px hsl(25 25% 12% / 0.05), 0 12px 32px -12px hsl(25 25% 12% / 0.10);
+    --shadow-accent: 0 8px 28px -8px hsl(22 78% 45% / 0.35);
+
+    --transition-smooth: all 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+
+    --sidebar-background: 38 30% 96%;
+    --sidebar-foreground: 25 25% 12%;
+    --sidebar-primary: 22 78% 45%;
+    --sidebar-primary-foreground: 38 30% 96%;
+    --sidebar-accent: 35 22% 90%;
+    --sidebar-accent-foreground: 25 25% 12%;
+    --sidebar-border: 30 15% 82%;
+    --sidebar-ring: 22 78% 45%;
+  }
+
+  .dark {
+    --background: 25 20% 8%;
+    --foreground: 38 30% 94%;
+    --card: 25 18% 11%;
+    --card-foreground: 38 30% 94%;
+    --popover: 25 18% 11%;
+    --popover-foreground: 38 30% 94%;
+    --primary: 38 30% 94%;
+    --primary-foreground: 25 20% 8%;
+    --secondary: 25 15% 16%;
+    --secondary-foreground: 38 30% 94%;
+    --muted: 25 12% 18%;
+    --muted-foreground: 35 15% 65%;
+    --accent: 22 78% 55%;
+    --accent-foreground: 25 20% 8%;
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 38 30% 94%;
+    --border: 25 12% 22%;
+    --input: 25 12% 22%;
+    --ring: 22 78% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-feature-settings: 'ss01', 'cv11';
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Fira Mono', ui-monospace, monospace;
+    letter-spacing: -0.01em;
+  }
+  ::selection {
+    background: hsl(var(--accent) / 0.25);
+    color: hsl(var(--ink));
+  }
+}
+
+@layer utilities {
+  .font-serif-display {
+    font-family: 'Fira Mono', ui-monospace, monospace;
+  }
+  .font-mono-clean {
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .bg-paper {
+    background: hsl(var(--paper));
+  }
+  .bg-gradient-warm {
+    background: var(--gradient-warm);
+  }
+  .bg-gradient-accent {
+    background: var(--gradient-accent);
+  }
+  .bg-gradient-glow {
+    background: var(--gradient-glow);
+  }
+  .shadow-soft { box-shadow: var(--shadow-soft); }
+  .shadow-card { box-shadow: var(--shadow-card); }
+  .shadow-accent { box-shadow: var(--shadow-accent); }
+  .transition-smooth { transition: var(--transition-smooth); }
+
+  .section-rule {
+    background: linear-gradient(to right, hsl(var(--accent)), transparent);
+    height: 1px;
+  }
+}
+
+@layer components {
+  .container-prose {
+    @apply mx-auto w-full max-w-5xl px-6 md:px-10;
+  }
+}

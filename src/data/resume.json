@@ -1,0 +1,173 @@
+{
+  "profile": {
+    "name": "Alex Weeks",
+    "title": "Cloud Infrastructure & IT Project Leader",
+    "tagline": "Bridging business strategy and cloud engineering to deliver resilient infrastructure at scale.",
+    "location": "Oklahoma City Oklahoma",
+    "email": "alex@alex-weeks.com",
+    "phone": "+1 (405) 795-0925",
+    "website": "alex-weeks.com",
+    "available": true,
+    "availabilityText": "Open to senior leadership roles",
+    "unavailabilityText": "Not currently available",
+    "summary": "Technology leader in progression, currently operating as a Systems Administrator with full lifecycle responsibility for infrastructure and operations, consistently delivering efficiency gains and cost optimization while preparing to lead at the director level."
+  },
+  "social": [
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/alexweeks",
+      "handle": "in/alexweeks"
+    },
+    {
+      "label": "Email",
+      "href": "mailto:alex@alex-weeks.com",
+      "handle": "alex@alex-weeks.com"
+    }
+  ],
+  "stats": [
+    {
+      "value": "10+",
+      "label": "Years in IT & Cloud"
+    },
+    {
+      "value": "$1M",
+      "label": "Annual cloud spend optimized"
+    },
+    {
+      "value": "15+",
+      "label": "Automations delivered"
+    },
+    {
+      "value": "99.9%",
+      "label": "Platform uptime maintained"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Snowmass Creek Capital",
+      "role": "Information Technology Analyst",
+      "location": "Oklahoma City, Oklahoma",
+      "start": "Oct 2021",
+      "end": "Present",
+      "summary": "IT professional with full ownership of infrastructure, automation, and vendor ecosystems, driving efficiency, reliability, and cost-effective technology solutions that support organizational growth.",
+      "highlights": [
+        "Engineered and deployed automation solutions that absorbed the workload of two full-time employees, materially increasing operational capacity within a 35-user environment.",
+        "Transformed cloud infrastructure strategy, reducing total spend by 50 percent through deliberate optimization, resource alignment, and architectural improvements.",
+        "Orchestrated the delivery of more than 15 cross-functional IT initiatives, producing measurable outcomes aligned with stakeholder priorities and organizational objectives."
+      ]
+    },
+    {
+      "company": "BankOnIt LLC",
+      "role": "Configuration & Inventory Control Supervisor",
+      "location": "Oklahoma City, Oklahoma",
+      "start": "Nov 2020",
+      "end": "Oct 2021",
+      "summary": "IT operations leader with end-to-end responsibility for enterprise hardware configuration, inventory management, and logistics. Oversaw operations supporting 300 clients, 100,000+ computer configurations, $5 million in client inventory, and 12,000 shipments, maintaining 99% on-time shipping performance through hands-on leadership and operational accountability.",
+      "highlights": [
+        "Led enterprise hardware configuration operations supporting 300 clients and more than 100,000 computers across 550 system images, maintaining configuration standards and coordinating team execution across diverse client environments.",
+        "Held end-to-end accountability for inventory operations managing client hardware portfolios valued at approximately $5 million, overseeing asset tracking, inventory accuracy, purchasing thresholds, and hardware availability.",
+        "Directed shipping and receiving operations handling approximately 12,000 packages valued at $1.2 million while achieving 99% on-time shipping performance through hands-on operational leadership, logistics coordination, and shipment tracking."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Cloud & Infrastructure",
+      "items": [
+        "AWS (Solutions Architect)",
+        "Azure",
+        "Terraform",
+        "Kubernetes",
+        "Linux",
+        "Networking"
+      ]
+    },
+    {
+      "category": "Leadership & Delivery",
+      "items": [
+        "Program Management",
+        "Agile / Scrum",
+        "PMO Setup",
+        "Vendor Management",
+        "Budget Ownership",
+        "Org Design"
+      ]
+    },
+    {
+      "category": "Security & Compliance",
+      "items": [
+        "SOC 2",
+        "HIPAA",
+        "Zero Trust",
+        "IAM",
+        "Risk Management",
+        "Incident Response"
+      ]
+    },
+    {
+      "category": "Tooling",
+      "items": [
+        "Datadog",
+        "GitHub Actions",
+        "ServiceNow",
+        "Jira",
+        "Notion",
+        "PagerDuty"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Western Governors University",
+      "degree": "B.S. Information Technology",
+      "start": "2021",
+      "end": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Security+",
+      "issuer": "Comptia",
+      "year": "2023"
+    },
+    {
+      "name": "Network+",
+      "issuer": "Comptia",
+      "year": "2022"
+    },
+    {
+      "name": "A+",
+      "issuer": "Comptia",
+      "year": "2022"
+    },
+    {
+      "name": "Project+",
+      "issuer": "Comptia",
+      "year": "2023"
+    },
+    {
+      "name": "ITIL 4 Foundation",
+      "issuer": "AXELOS",
+      "year": "2023"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Distinguished Honor Graduate",
+      "issuer": "Oklahoma Army National Guard",
+      "year": "2024"
+    }
+  ],
+  "service": {
+    "organization": "Oklahoma Army National Guard",
+    "role": "Data Operations Warrant Officer",
+    "status": " 2015  -  Ongoing",
+    "summary": "Lead secure communications and data infrastructure supporting mission-critical logistics operations across expeditionary, mobile, and fixed environments. Integrate satellite communications, network engineering, cybersecurity, and technical support to maintain reliable information systems in rapidly changing operational conditions.",
+    "highlights": [
+      "Served as the accountable technical authority for $3 million in communications and network assets across dispersed operational sites, ensuring operational readiness, configuration compliance, and zero loss of government property.",
+      "Designed and sustained secure network architectures connecting 10 geographically dispersed operational sites and operated 8 satellite communications platforms, enabling resilient connectivity, secure data exchange, and continuity of logistics and command operations.",
+      "Led a 14-person technical support organization, including 3 direct reports and 11 indirect personnel, delivering enterprise service desk support for logistics information systems and mission-critical user operations.",
+      "Maintained cybersecurity and configuration compliance across approximately 100 mission systems through software patching, vulnerability remediation, and security controls to protect operational networks and sustain mission availability."
+    ]
+  }
+}
