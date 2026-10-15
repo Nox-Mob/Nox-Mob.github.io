@@ -3,11 +3,25 @@ import Section from "./Section";
 
 const About = () => {
   const { profile, stats } = getResume();
+  const phrases = profile.aboutSubtitle.split(/,\s*/).filter(Boolean);
   return (
     <Section
       id="about"
       eyebrow="About"
-      title="An operator who treats infrastructure as a product."
+      title={
+        phrases.length > 1 ? (
+          <span>
+            {phrases.map((phrase, i) => (
+              <span key={phrase}>
+                <span className="whitespace-nowrap">{phrase}</span>
+                {i < phrases.length - 1 ? ", " : ""}
+              </span>
+            ))}
+          </span>
+        ) : (
+          profile.aboutSubtitle
+        )
+      }
     >
       <div className="grid gap-12 md:grid-cols-5">
         <p className="md:col-span-3 text-lg leading-relaxed text-ink-soft text-balance">

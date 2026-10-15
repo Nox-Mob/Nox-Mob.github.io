@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Alex Weeks",
-    "title": "Cloud Infrastructure & IT Project Leader",
+    "title": "IT Operations & Technology Leader",
     "tagline": "Bridging business strategy and cloud engineering to deliver resilient infrastructure at scale.",
     "location": "Oklahoma City Oklahoma",
     "email": "alex@alex-weeks.com",
@@ -10,7 +10,8 @@
     "available": true,
     "availabilityText": "Open to senior leadership roles",
     "unavailabilityText": "Not currently available",
-    "summary": "Technology leader in progression, currently operating as a Systems Administrator with full lifecycle responsibility for infrastructure and operations, consistently delivering efficiency gains and cost optimization while preparing to lead at the director level."
+    "summary": "IT operations and technology leader with experience managing technical teams, optimizing infrastructure, directing vendors, and delivering organization-wide improvements. Proven record of reducing cloud expenditure by 50%, automating workloads equivalent to two full-time employees, and leading operations supporting mission-critical systems and geographically distributed teams. Combines hands-on technical expertise with operational accountability, resource management, and cross-functional delivery.",
+    "aboutSubtitle": "Leading teams and operations with the same discipline."
   },
   "social": [
     {
@@ -51,9 +52,10 @@
       "end": "Present",
       "summary": "IT professional with full ownership of infrastructure, automation, and vendor ecosystems, driving efficiency, reliability, and cost-effective technology solutions that support organizational growth.",
       "highlights": [
-        "Engineered and deployed automation solutions that absorbed the workload of two full-time employees, materially increasing operational capacity within a 35-user environment.",
-        "Transformed cloud infrastructure strategy, reducing total spend by 50 percent through deliberate optimization, resource alignment, and architectural improvements.",
-        "Orchestrated the delivery of more than 15 cross-functional IT initiatives, producing measurable outcomes aligned with stakeholder priorities and organizational objectives."
+        "Directed infrastructure optimization initiatives that reduced cloud expenditure by 50%, improving cost efficiency while maintaining operational requirements.",
+        "Designed and implemented automation across 35 business users, eliminating manual workloads equivalent to two full-time employees and increasing operational capacity.",
+        "Led delivery of 15+ cross-functional technology initiatives, coordinating stakeholders, vendors, and technical resources to achieve business objectives.",
+        "Managed technology vendor relationships, contributed to IT budget planning, and established policies and procedures supporting operational consistency, security, and governance."
       ]
     },
     {

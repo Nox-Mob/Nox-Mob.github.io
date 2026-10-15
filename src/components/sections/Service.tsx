@@ -5,7 +5,7 @@ const Service = () => {
   const { service } = getResume();
 
   return (
-    <Section id="service" eyebrow="Military Service" title={service.organization}>
+    <Section id="service" eyebrow="National Guard Service" title={service.organization}>
       <div className="border-l-2 border-ochre/70 pl-5 md:pl-7">
         <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
           <h3 className="font-serif-display text-xl font-medium text-ink md:text-2xl">
