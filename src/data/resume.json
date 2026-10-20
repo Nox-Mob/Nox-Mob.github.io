@@ -4,8 +4,6 @@
     "title": "IT Operations & Technology Leader",
     "tagline": "Connecting business strategy and technology operations to deliver resilient, cost-effective IT.",
     "location": "Oklahoma City Oklahoma",
-    "email": "alex@alex-weeks.com",
-    "phone": "+1 (405) 795-0925",
     "website": "alex-weeks.com",
     "available": true,
     "availabilityText": "Open to senior leadership roles",
@@ -56,8 +54,7 @@
         "Designed and implemented 35 business process automations, eliminating manual effort equivalent to two full-time employees and increasing capacity for higher-value work.",
         "Manage a portfolio of 28 technology vendors with approximately $750K in annual spend, overseeing vendor relationships, service delivery, and technology procurement.",
         "Prepare the organization's full $2.5M annual IT budget for management approval, coordinating technology spending plans, vendor costs, improvement projects, and operational requirements.",
-        "Established IT governance from the ground up, authoring the organization's IT policies, standards, and procedures to formalize security practices, operational controls, and technology management.",
-        "Led delivery of 15+ technology initiatives, coordinating business stakeholders, vendors, and technical resources to implement solutions aligned with organizational priorities."
+        "Established IT governance from the ground up, authoring the organization's IT policies, standards, and procedures to formalize security practices, operational controls, and technology management."
       ]
     },
     {
@@ -70,8 +67,7 @@
       "highlights": [
         "Supervised and managed six direct reports, overseeing hiring, time-off approvals, performance reviews, salary increases, and employee discipline while maintaining team performance and operational continuity.",
         "Led enterprise hardware configuration operations supporting 300 clients and more than 100,000 computer configurations across 550 system images, maintaining configuration standards and coordinating execution across diverse client environments.",
-        "Managed approximately $5 million in client hardware inventory, overseeing asset tracking, inventory accuracy, purchasing thresholds, and hardware availability.",
-        "Directed shipping and receiving operations handling approximately 12,000 packages valued at $1.2 million while achieving 99% on-time shipping performance through hands-on leadership, logistics coordination, and shipment tracking."
+        "Managed approximately $2 million in client hardware inventory, overseeing asset tracking, inventory accuracy, purchasing thresholds, and hardware availability."
       ]
     },
     {
@@ -172,21 +168,6 @@
       "year": "2024"
     },
     {
-      "name": "Security, Compliance, and Identity Fundamentals",
-      "issuer": "Microsoft",
-      "year": "2022"
-    },
-    {
-      "name": "Power Platform Fundamentals",
-      "issuer": "Microsoft",
-      "year": "2022"
-    },
-    {
-      "name": "Linux Essentials",
-      "issuer": "Linux Professional Institute (LPI)",
-      "year": "2023"
-    },
-    {
       "name": "Lean Six Sigma Black Belt",
       "issuer": "Council for Six Sigma Certification",
       "year": "2021"
@@ -201,7 +182,7 @@
   ],
   "service": {
     "organization": "Oklahoma Army National Guard",
-    "dateRange": "March 2015 – Present",
+    "dateRange": "March 2015 \u2013 Present",
     "roles": [
       {
         "role": "Data Operations Warrant Officer",
@@ -220,21 +201,19 @@
         "summary": "Led an eight-person communications security function through two subordinate leaders, overseeing personnel, secure communications support, and operational accountability.",
         "highlights": [
           "Led an eight-person organization, directly supervising two subordinate NCOs who each led three additional personnel, coordinating team execution, accountability, and personnel development.",
-          "Oversaw communications security operations, emphasizing the proper safeguarding, control, and accountability of COMSEC equipment and materials in accordance with applicable Army requirements.",
-          "Supported secure communications readiness by coordinating personnel responsibilities, reinforcing security procedures, and ensuring subordinate teams understood and followed established requirements."
+          "Oversaw communications security operations, emphasizing the proper safeguarding, control, and accountability of COMSEC equipment and materials in accordance with applicable Army requirements."
         ]
       },
       {
         "role": "Signal Information Systems Support Specialist",
         "type": "March 2015 - March 2022",
-        "summary": "Installed, operated, and maintained multi-user information systems while supporting tactical communications, systems integration, technical training, and operational documentation.",
-        "highlights": [
-          "Supervised the deployment, installation, operation, and unit-level maintenance of information processing systems supporting operational requirements.",
-          "Provided technical guidance and troubleshooting for information systems personnel and end users, resolving issues involving system operation and information services.",
-          "Coordinated systems integration, identified telecommunications and information management requirements, and supported requests for logistical resources.",
-          "Developed on-site training programs and authored operational manuals, procedures, and technical requirements documentation."
-        ]
+        "summary": "Installed, operated, and maintained multi-user information systems while supporting tactical communications, systems integration, technical training, and operational documentation."
       }
     ]
+  },
+  "resumeExport": {
+    "maxPages": 2,
+    "includeSkills": false,
+    "includeRoleSummaries": false
   }
 }
