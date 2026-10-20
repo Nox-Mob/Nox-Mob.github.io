@@ -2,7 +2,7 @@
   "profile": {
     "name": "Alex Weeks",
     "title": "IT Operations & Technology Leader",
-    "tagline": "Bridging business strategy and cloud engineering to deliver resilient infrastructure at scale.",
+    "tagline": "Connecting business strategy and technology operations to deliver resilient, cost-effective IT.",
     "location": "Oklahoma City Oklahoma",
     "email": "alex@alex-weeks.com",
     "phone": "+1 (405) 795-0925",
@@ -10,8 +10,8 @@
     "available": true,
     "availabilityText": "Open to senior leadership roles",
     "unavailabilityText": "Not currently available",
-    "summary": "IT operations and technology leader with experience managing technical teams, optimizing infrastructure, directing vendors, and delivering organization-wide improvements. Proven record of reducing cloud expenditure by 50%, automating workloads equivalent to two full-time employees, and leading operations supporting mission-critical systems and geographically distributed teams. Combines hands-on technical expertise with operational accountability, resource management, and cross-functional delivery.",
-    "aboutSubtitle": "Leading teams and operations with the same discipline."
+    "summary": "IT operations and technology leader with experience overseeing infrastructure, technical teams, vendor relationships, financial planning, and IT governance. Delivered measurable results, including a 50% reduction in cloud costs and automation that eliminated manual workloads equivalent to two full-time employees. Combines hands-on technical expertise with operational accountability, resource management, and cross-functional execution across business and mission-critical environments.",
+    "aboutSubtitle": "Leading people, technology, and operations with discipline and accountability."
   },
   "social": [
     {
@@ -205,18 +205,28 @@
     "roles": [
       {
         "role": "Data Operations Warrant Officer",
-        "type": "Warrant Officer | Current",
+        "type": "August 2025 - Current",
         "summary": "Lead secure communications, network infrastructure, and technical operations supporting mission-critical logistics and command functions across expeditionary, mobile, and fixed environments.",
         "highlights": [
           "Accountable for approximately $3 million in communications and network assets across dispersed operational sites, maintaining operational readiness, configuration compliance, and zero loss of government property.",
           "Designed and sustained secure network architectures connecting 10 geographically dispersed operational sites and operated eight satellite communications platforms to maintain resilient connectivity and secure data exchange.",
-          "Led a 14-person technical support organization, including three direct reports and 11 indirect personnel, delivering service desk support for logistics information systems and mission-critical users.",
+          "Led a 16-person technical support organization, including three direct reports and 13 indirect personnel, delivering service desk support for logistics information systems and mission-critical users.",
           "Maintained cybersecurity and configuration compliance across approximately 100 mission systems through software patching, vulnerability remediation, and implementation of security controls."
         ]
       },
       {
+        "role": "Communications Security Non-Commissioned Officer",
+        "type": "March 2022 - August 2025",
+        "summary": "Led an eight-person communications security function through two subordinate leaders, overseeing personnel, secure communications support, and operational accountability.",
+        "highlights": [
+          "Led an eight-person organization, directly supervising two subordinate NCOs who each led three additional personnel, coordinating team execution, accountability, and personnel development.",
+          "Oversaw communications security operations, emphasizing the proper safeguarding, control, and accountability of COMSEC equipment and materials in accordance with applicable Army requirements.",
+          "Supported secure communications readiness by coordinating personnel responsibilities, reinforcing security procedures, and ensuring subordinate teams understood and followed established requirements."
+        ]
+      },
+      {
         "role": "Signal Information Systems Support Specialist",
-        "type": "Enlisted | March 2015 – Warrant Officer appointment",
+        "type": "March 2015 - March 2022",
         "summary": "Installed, operated, and maintained multi-user information systems while supporting tactical communications, systems integration, technical training, and operational documentation.",
         "highlights": [
           "Supervised the deployment, installation, operation, and unit-level maintenance of information processing systems supporting operational requirements.",
