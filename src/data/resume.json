@@ -31,8 +31,8 @@
       "label": "Years in IT & Cloud"
     },
     {
-      "value": "$1M",
-      "label": "Annual cloud spend optimized"
+      "value": "$2.5M",
+      "label": "Annual spend managed"
     },
     {
       "value": "15+",
@@ -45,17 +45,19 @@
   ],
   "experience": [
     {
-      "company": "Snowmass Creek Capital",
+      "company": "SC Services",
       "role": "Information Technology Analyst",
       "location": "Oklahoma City, Oklahoma",
       "start": "Oct 2021",
       "end": "Present",
-      "summary": "IT professional with full ownership of infrastructure, automation, and vendor ecosystems, driving efficiency, reliability, and cost-effective technology solutions that support organizational growth.",
+      "summary": "Lead infrastructure operations, business automation, vendor management, and technology governance for a 39-person organization, driving cost reduction, operational efficiency, and service reliability.",
       "highlights": [
-        "Directed infrastructure optimization initiatives that reduced cloud expenditure by 50%, improving cost efficiency while maintaining operational requirements.",
-        "Designed and implemented automation across 35 business users, eliminating manual workloads equivalent to two full-time employees and increasing operational capacity.",
-        "Led delivery of 15+ cross-functional technology initiatives, coordinating stakeholders, vendors, and technical resources to achieve business objectives.",
-        "Managed technology vendor relationships, contributed to IT budget planning, and established policies and procedures supporting operational consistency, security, and governance."
+        "Reduced cloud expenditures by 50% through infrastructure optimization and resource management while maintaining required business capabilities and service levels.",
+        "Designed and implemented 35 business process automations, eliminating manual effort equivalent to two full-time employees and increasing capacity for higher-value work.",
+        "Manage a portfolio of 28 technology vendors with approximately $750K in annual spend, overseeing vendor relationships, service delivery, and technology procurement.",
+        "Prepare the organization's full $2.5M annual IT budget for management approval, coordinating technology spending plans, vendor costs, improvement projects, and operational requirements.",
+        "Established IT governance from the ground up, authoring the organization's IT policies, standards, and procedures to formalize security practices, operational controls, and technology management.",
+        "Led delivery of 15+ technology initiatives, coordinating business stakeholders, vendors, and technical resources to implement solutions aligned with organizational priorities."
       ]
     },
     {
@@ -64,11 +66,37 @@
       "location": "Oklahoma City, Oklahoma",
       "start": "Nov 2020",
       "end": "Oct 2021",
-      "summary": "IT operations leader with end-to-end responsibility for enterprise hardware configuration, inventory management, and logistics. Oversaw operations supporting 300 clients, 100,000+ computer configurations, $5 million in client inventory, and 12,000 shipments, maintaining 99% on-time shipping performance through hands-on leadership and operational accountability.",
+      "summary": "Led hardware configuration, inventory control, and shipping operations while directly supervising six employees. Held responsibility for team performance, staffing, employee development, and operational results across high-volume enterprise IT logistics.",
       "highlights": [
-        "Led enterprise hardware configuration operations supporting 300 clients and more than 100,000 computers across 550 system images, maintaining configuration standards and coordinating team execution across diverse client environments.",
-        "Held end-to-end accountability for inventory operations managing client hardware portfolios valued at approximately $5 million, overseeing asset tracking, inventory accuracy, purchasing thresholds, and hardware availability.",
-        "Directed shipping and receiving operations handling approximately 12,000 packages valued at $1.2 million while achieving 99% on-time shipping performance through hands-on operational leadership, logistics coordination, and shipment tracking."
+        "Supervised and managed six direct reports, overseeing hiring, time-off approvals, performance reviews, salary increases, and employee discipline while maintaining team performance and operational continuity.",
+        "Led enterprise hardware configuration operations supporting 300 clients and more than 100,000 computer configurations across 550 system images, maintaining configuration standards and coordinating execution across diverse client environments.",
+        "Managed approximately $5 million in client hardware inventory, overseeing asset tracking, inventory accuracy, purchasing thresholds, and hardware availability.",
+        "Directed shipping and receiving operations handling approximately 12,000 packages valued at $1.2 million while achieving 99% on-time shipping performance through hands-on leadership, logistics coordination, and shipment tracking."
+      ]
+    },
+    {
+      "company": "BankOnIt LLC",
+      "role": "Travel Team Technician",
+      "location": "Oklahoma City, Oklahoma",
+      "start": "Apr 2019",
+      "end": "Nov 2020",
+      "summary": "Provided onsite technical support across client environments, troubleshooting hardware, software, and network issues while coordinating technical resources to resolve incidents and support project delivery.",
+      "highlights": [
+        "Diagnosed and resolved onsite hardware, software, and network issues, providing hands-on troubleshooting and end-user support across client environments.",
+        "Coordinated onsite project activities, documented technical findings, and communicated customer issues and project status to technical teams and project leadership. Assisted less experienced technicians with troubleshooting and customer communication."
+      ]
+    },
+    {
+      "company": "Apex Systems",
+      "role": "Help Desk Technician",
+      "location": "Oklahoma City, Oklahoma",
+      "start": "Oct 2018",
+      "end": "Mar 2019",
+      "summary": "Delivered enterprise help desk support, resolving application, access, and infrastructure-related issues while meeting service quality and customer satisfaction expectations.",
+      "highlights": [
+        "Earned the Customer Satisfaction (CSAT) Award for achieving the third-highest customer satisfaction score across the entire help desk of over 100 employees.",
+        "Resolved enterprise IT issues involving Active Directory, Exchange, DNS, software applications, and user access while meeting established service and performance targets.",
+        "Created and maintained knowledge base articles to improve troubleshooting consistency and escalated enterprise-wide or production-impacting incidents to Corporate Operations and Major Incident Management teams."
       ]
     }
   ],
@@ -76,10 +104,9 @@
     {
       "category": "Cloud & Infrastructure",
       "items": [
-        "AWS (Solutions Architect)",
         "Azure",
         "Terraform",
-        "Kubernetes",
+        "Bicep",
         "Linux",
         "Networking"
       ]
@@ -88,8 +115,7 @@
       "category": "Leadership & Delivery",
       "items": [
         "Program Management",
-        "Agile / Scrum",
-        "PMO Setup",
+        "Lean Six Sigma",
         "Vendor Management",
         "Budget Ownership",
         "Org Design"
@@ -98,23 +124,21 @@
     {
       "category": "Security & Compliance",
       "items": [
-        "SOC 2",
-        "HIPAA",
         "Zero Trust",
         "IAM",
         "Risk Management",
-        "Incident Response"
+        "Incident Response",
+        "Information Security"
       ]
     },
     {
       "category": "Tooling",
       "items": [
-        "Datadog",
+        "Azure DevOps",
         "GitHub Actions",
-        "ServiceNow",
-        "Jira",
-        "Notion",
-        "PagerDuty"
+        "Power Platform",
+        "Intune",
+        "Active Directory"
       ]
     }
   ],
@@ -129,28 +153,43 @@
   "certifications": [
     {
       "name": "Security+",
-      "issuer": "Comptia",
+      "issuer": "CompTIA",
       "year": "2023"
     },
     {
       "name": "Network+",
-      "issuer": "Comptia",
+      "issuer": "CompTIA",
       "year": "2022"
     },
     {
       "name": "A+",
-      "issuer": "Comptia",
+      "issuer": "CompTIA",
       "year": "2022"
     },
     {
       "name": "Project+",
-      "issuer": "Comptia",
+      "issuer": "CompTIA",
+      "year": "2024"
+    },
+    {
+      "name": "Security, Compliance, and Identity Fundamentals",
+      "issuer": "Microsoft",
+      "year": "2022"
+    },
+    {
+      "name": "Power Platform Fundamentals",
+      "issuer": "Microsoft",
+      "year": "2022"
+    },
+    {
+      "name": "Linux Essentials",
+      "issuer": "Linux Professional Institute (LPI)",
       "year": "2023"
     },
     {
-      "name": "ITIL 4 Foundation",
-      "issuer": "AXELOS",
-      "year": "2023"
+      "name": "Lean Six Sigma Black Belt",
+      "issuer": "Council for Six Sigma Certification",
+      "year": "2021"
     }
   ],
   "awards": [
@@ -162,14 +201,30 @@
   ],
   "service": {
     "organization": "Oklahoma Army National Guard",
-    "role": "Data Operations Warrant Officer",
-    "status": " 2015  -  Ongoing",
-    "summary": "Lead secure communications and data infrastructure supporting mission-critical logistics operations across expeditionary, mobile, and fixed environments. Integrate satellite communications, network engineering, cybersecurity, and technical support to maintain reliable information systems in rapidly changing operational conditions.",
-    "highlights": [
-      "Served as the accountable technical authority for $3 million in communications and network assets across dispersed operational sites, ensuring operational readiness, configuration compliance, and zero loss of government property.",
-      "Designed and sustained secure network architectures connecting 10 geographically dispersed operational sites and operated 8 satellite communications platforms, enabling resilient connectivity, secure data exchange, and continuity of logistics and command operations.",
-      "Led a 14-person technical support organization, including 3 direct reports and 11 indirect personnel, delivering enterprise service desk support for logistics information systems and mission-critical user operations.",
-      "Maintained cybersecurity and configuration compliance across approximately 100 mission systems through software patching, vulnerability remediation, and security controls to protect operational networks and sustain mission availability."
+    "dateRange": "March 2015 – Present",
+    "roles": [
+      {
+        "role": "Data Operations Warrant Officer",
+        "type": "Warrant Officer | Current",
+        "summary": "Lead secure communications, network infrastructure, and technical operations supporting mission-critical logistics and command functions across expeditionary, mobile, and fixed environments.",
+        "highlights": [
+          "Accountable for approximately $3 million in communications and network assets across dispersed operational sites, maintaining operational readiness, configuration compliance, and zero loss of government property.",
+          "Designed and sustained secure network architectures connecting 10 geographically dispersed operational sites and operated eight satellite communications platforms to maintain resilient connectivity and secure data exchange.",
+          "Led a 14-person technical support organization, including three direct reports and 11 indirect personnel, delivering service desk support for logistics information systems and mission-critical users.",
+          "Maintained cybersecurity and configuration compliance across approximately 100 mission systems through software patching, vulnerability remediation, and implementation of security controls."
+        ]
+      },
+      {
+        "role": "Signal Information Systems Support Specialist",
+        "type": "Enlisted | March 2015 – Warrant Officer appointment",
+        "summary": "Installed, operated, and maintained multi-user information systems while supporting tactical communications, systems integration, technical training, and operational documentation.",
+        "highlights": [
+          "Supervised the deployment, installation, operation, and unit-level maintenance of information processing systems supporting operational requirements.",
+          "Provided technical guidance and troubleshooting for information systems personnel and end users, resolving issues involving system operation and information services.",
+          "Coordinated systems integration, identified telecommunications and information management requirements, and supported requests for logistical resources.",
+          "Developed on-site training programs and authored operational manuals, procedures, and technical requirements documentation."
+        ]
+      }
     ]
   }
 }

@@ -1,7 +1,3 @@
-# Alex Weeks Resume Site
+# Welcome to your Lovable project
 
-Built from a single JSON file, this site is a single site for a resume. 
-
-```
-This Website was Partially Built by AI
-```
+TODO: Document your project here

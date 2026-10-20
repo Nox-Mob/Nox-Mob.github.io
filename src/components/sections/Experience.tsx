@@ -7,7 +7,7 @@ const Experience = () => {
     <Section
       id="experience"
       eyebrow="Experience"
-      title="12 years of delivering results"
+      title="10+ years of delivering results"
     >
       <ol className="relative space-y-10 border-l border-border/70 pl-6 md:pl-10">
         {experience.map((job) => (

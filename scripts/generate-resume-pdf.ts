@@ -104,7 +104,10 @@ for (const e of data.experience ?? []) {
 if (data.service) {
   const s = data.service;
   heading("Military Service");
-  role({ title: s.role, org: s.organization, dates: s.status, summary: s.summary, highlights: s.highlights });
+  row(s.organization, clean(s.dateRange));
+  for (const r of s.roles ?? []) {
+    role({ title: r.role, org: r.type, dates: "", summary: r.summary, highlights: r.highlights });
+  }
 }
 
 // ---- Skills ----
